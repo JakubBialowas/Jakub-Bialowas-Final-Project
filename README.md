@@ -72,7 +72,7 @@ o zadanej porze pomiar nie zostanie dokonany – wówczas zwracana jest wartoś�
 
 DZIAŁANIE PROGRAMU
 
-Program powinien być odporny na sytuacje, gdy nie mamy łączności lub usługa jest niedostępna. W takiej sytuacji użytkownik powinien zostać poinformowany o niedostępności danych i ewentualnie zaproponować skorzystanie z danych
+Program powinien być odporny na sytuacje, gdy nie ma łączności lub usługa jest niedostępna. W takiej sytuacji użytkownik zostaje poinformowany o niedostępności danych i ewentualnie zaproponować skorzystanie z danych
 „historycznych” (jeśli takie zostały wcześniej zapisane w bazie danych)
 
 ## Uruchomienie aplikacji
